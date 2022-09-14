@@ -1,3 +1,5 @@
+package HomeWorkApp2;
+
 public class lesson2 {
     public static boolean one(int a, int b) {
         int sum = a + b;
